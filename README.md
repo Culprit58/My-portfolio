@@ -1,11 +1,11 @@
-# 🌐 My Portfolio
+#  My Portfolio
 
 This is a personal portfolio website built with **HTML** and **CSS**.  
 It showcases my profile, skills, projects, and provides a way for visitors to contact me.
 
 ---
 
-## 📋 Features
+##  Features
 - **Profile Section** – Displays my photo, name, roles, and location.  
 - **About Section** – A detailed description of who I am and my passion for development.  
 - **Skills Section** – Highlights my technical skills with progress indicators.  
@@ -15,7 +15,7 @@ It showcases my profile, skills, projects, and provides a way for visitors to co
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **[Iconify](https://iconify.design/)** for icons
